@@ -23,7 +23,7 @@ React-приложение для отображения большого спи
 
     1. Клонируйте репозиторий.
 
-### https://github.com/bellatrisa1/user-test-react-app.git
+### git clone https://github.com/bellatrisa1/user-test-react-app.git
 
     2. Установите зависимости.
 
