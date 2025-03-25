@@ -36,3 +36,6 @@ React-приложение для отображения большого спи
     4. Проект запустится по адресу: http://localhost:3000/
 
 ## Скриншоты:
+
+1. ![Снимок экрана 2025-03-25 в 18 57 37](https://github.com/user-attachments/assets/c7744ff6-5271-4986-a36e-827a6df394fe)
+2. ![Снимок экрана 2025-03-25 в 18 58 13](https://github.com/user-attachments/assets/55f65000-6fcb-4eb7-b1dd-87af7ac5290a)
